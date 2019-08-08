@@ -1,0 +1,4 @@
+zuul:
+  routes:
+    trackservice:
+      url: http://localhost:8081
